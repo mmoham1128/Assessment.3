@@ -1,0 +1,57 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+p3{
+	display: block;
+	color:blueviolet
+}
+p4{
+	display: block;
+	color:rgb(14, 176, 122)
+}
+p5{
+	display: block;
+	color:rgb(19, 19, 190)
+}
+
+.best {
+	background-color: yellow;
+	height: 60px;
+	width: 60px;
+}
